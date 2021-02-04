@@ -1,7 +1,7 @@
 ### Hello, I'm Yaël 👋
 
-I'm currently working on [Zouw.app](https://zouw.app) and I'm also searching a remote job!
+I'm currently working on [@vueuse/motion](https://github.com/vueuse/motion). 🤹
 
-If you want to contact me, feel free to reach me on my [Twitter](https://twitter.com/yaeeelglx).
+If you like what I'm doing, consider following me on [Twitter](https://twitter.com/yaeeelglx) and on GitHub. 😎
 
-If you want to know more about my work, you can visit my [website](https://yael.dev) or consult my [resume](https://resume.yael.dev).
+If you want to know more about my work, you can visit my [website](https://yael.dev). 🌍
