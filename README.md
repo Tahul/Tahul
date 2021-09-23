@@ -1,6 +1,6 @@
 ### Hello, I'm Yaël 👋
 
-I'm currently working on [**Docus**](https://nuxtlabs.com/docus) with an awesome team [@nuxtlabs](https://nuxtlabs.com). 🤹
+I'm currently working on [**Docus**](https://nuxtlabs.com/docus) with an awesome team [**@nuxtlabs**](https://nuxtlabs.com). 🤹
 
 If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/yaeeelglx) and on [**GitHub**](https://github.com/Tahul). 😎
 
