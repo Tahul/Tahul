@@ -1,6 +1,6 @@
 ### Hello, I'm Yaël 👋
 
-I build [**Nuxt Studio**](https://nuxt.studio) and [@nuxt-themes](https://github.com/nuxt-themes) with an awesome team [**@nuxtlabs**](https://nuxtlabs.com). 🤹
+I build [**Nuxt Studio**](https://nuxt.studio) and [**@nuxt-themes**](https://github.com/nuxt-themes) with an awesome team [**@nuxtlabs**](https://nuxtlabs.com). 🤹
 
 If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/yaeeelglx) and on [**GitHub**](https://github.com/Tahul). 😎
 
