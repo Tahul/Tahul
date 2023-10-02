@@ -10,4 +10,4 @@ I currently work on these projects:
 
 If you like my work, consider looking at [**my sponsors**](https://github.com/sponsors/Tahul) page! ✨
 
-[𝕏](https://x.com/yaeeelglx) • [GitHub](https://github.com/Tahul) • [YouTube](https://www.youtube.com/@yaelguilloux) • [Twitch](https://www.twitch.tv/tahul)
+[**𝕏**](https://x.com/yaeeelglx) • [**GitHub**](https://github.com/Tahul) • [**YouTube**](https://www.youtube.com/@yaelguilloux) • [**Twitch**](https://www.twitch.tv/tahul)
