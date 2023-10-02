@@ -1,9 +1,13 @@
-### Hello, I'm Yaël 👋
+### Hello, I'm Yaël 🪴
 
-I build [**Nuxt Studio**](https://nuxt.studio) and [**@nuxt-themes**](https://github.com/nuxt-themes) with an awesome team [**@nuxtlabs**](https://nuxtlabs.com). 🤹
+I currently work on these projects:
 
-If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/yaeeelglx) and on [**GitHub**](https://github.com/Tahul). 😎
+- [🧑‍🎨 Pinceau](https://github.com/Tahul/pinceau)
+- [👨‍🔬 sfc-composer](https://github.com/Tahul/sfc-composer)
+- [🤹 @vueuse/motion](https://github.com/vueuse/motion)
+- [🎺 @vueuse/sound](https://github.com/vueuse/sound)
+- [🕹 @vueuse/gesture](https://github.com/vueuse/gesture)
 
-If you want to know more about my work, you can visit my [**website**](https://yael.dev). 🌍
+Consider following me on [**Twitter**](https://twitter.com/yaeeelglx) and also here on [**GitHub**](https://github.com/Tahul). 😎
 
 I also have a [**Sponsor**](https://github.com/sponsors/Tahul) page! ✨
