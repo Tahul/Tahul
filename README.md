@@ -8,6 +8,6 @@ I currently work on these projects:
 - [🎺 @vueuse/sound](https://github.com/vueuse/sound)
 - [🕹 @vueuse/gesture](https://github.com/vueuse/gesture)
 
-Consider following me on [**Twitter**](https://twitter.com/yaeeelglx) and also here on [**GitHub**](https://github.com/Tahul). 😎
+If you like my work, consider looking at [**my sponsors**](https://github.com/sponsors/Tahul) page! ✨
 
-I also have a [**Sponsor**](https://github.com/sponsors/Tahul) page! ✨
+[![X favicon](https://x.com/favicon.ico)](https://x.com/yaeeelglx) • [![GitHub favicon](https://github.com/favicon.ico)](https://github.com/Tahul)
