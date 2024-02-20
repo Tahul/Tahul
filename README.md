@@ -2,6 +2,7 @@
 
 I currently work on these projects:
 
+- [💾&nbsp;nuxt-edgedb-module](https://github.com/Tahul/nuxt-edgedb-module)
 - [🧑‍🎨&nbsp;Pinceau](https://github.com/Tahul/pinceau)
 - [👨‍🔬&nbsp;sfc-composer](https://github.com/Tahul/sfc-composer)
 - [🤹&nbsp;@vueuse/motion](https://github.com/vueuse/motion)
