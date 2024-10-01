@@ -1,6 +1,8 @@
 #### Hello, I'm Yaël 🪴
 
-I currently work on these projects:
+I'm building my company [thecompaniesapi.com](https://thecompaniesapi.com)
+
+I also enjoy maintaining these OSS projects:
 
 - [💾&nbsp;nuxt-edgedb-module](https://github.com/Tahul/nuxt-edgedb)
 - [🧑‍🎨&nbsp;Pinceau](https://github.com/Tahul/pinceau)
@@ -11,4 +13,4 @@ I currently work on these projects:
 
 Follow me on: [𝕏](https://x.com/yaeeelglx) • [**GitHub**](https://github.com/Tahul) • [**YouTube**](https://www.youtube.com/@yaelguilloux) • [**Twitch**](https://www.twitch.tv/tahul)
 
-If you like my work, consider looking at [**my sponsors**](https://github.com/sponsors/Tahul) page! 💌
+If you like my work, consider looking at [**my sponsors**](https://github.com/sponsors/Tahul) page 💌
